@@ -3,7 +3,7 @@
 ![Gluten Status](https://img.shields.io/badge/Gluten-Free-green.svg)
 ![Eco Status](https://img.shields.io/badge/ECO-Friendly-green.svg)
 
-# Coming-soon
+# Student-portfolio
 
 _website design project_
 
@@ -13,9 +13,9 @@ _website design project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://sauliuspipiras.github.io/5-coming-soon/
+Site published at: https://sauliuspipiras.github.io/5-student-portfolio/
 
-Design: [Coming soon](https://cdn.discordapp.com/attachments/850245533838868480/850246473362178048/coming-soon-wide.png)
+Design: [Student-portfolio](https://finestwp.co/demos/wp/omex/landing-05/)
 
 ## 🎯 Project features/goals
 
@@ -23,8 +23,10 @@ Design: [Coming soon](https://cdn.discordapp.com/attachments/850245533838868480/
 -   responsive design
 -   CSS animation
 -   form
--   FontAwesome icons
--   CSS units: vh, vw, vmin, vmax
+-   icons
+-   content rendering
+-   gallery
+-   slider
 
 ## 🧰 Getting Started
 
@@ -48,7 +50,7 @@ Would like to run this project locally? Open terminal and follow these steps:
 
 1. Clone the repo
     ```sh
-    git clone https://github.com/SauliusPipiras/5-coming-soon
+    git clone https://github.com/SauliusPipiras/7-student-portfolio
     ```
 2. Install NPM packages
     ```sh
